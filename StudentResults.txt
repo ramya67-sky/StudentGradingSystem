@@ -1,0 +1,13 @@
+
+--- Student ---
+Name: Ramya Ruba S
+Roll: 922523104128
+Subject 1 : 58
+Subject 2 : 25
+Subject 3 : 54
+Subject 4 : 54
+Subject 5 : 87
+Subject 6 : 65
+Total: 343
+Average: 57.166666666666664
+Grade: D
