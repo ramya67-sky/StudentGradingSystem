@@ -37,7 +37,13 @@ This project is designed as a *real-world academic utility app* for college stud
 
 ## 📂 Project Structure
 
-StudentGradingSystem/ ├── src/main/java/StudentgradingsystemApp.java ├── StudentResults.txt ├── README.md
+StudentGradingSystem/ 
+
+├── src/main/java/StudentgradingsystemApp.java 
+
+├── StudentResults.txt
+
+├── README.md
 
 ---
 
@@ -83,12 +89,19 @@ Grade Points:
 Grade	Point
 
 O	10
+
 A+	9
+
 A	8.5
+
 B+	8
+
 B	7
+
 C	6
+
 P	5
+
 F	0
 
 
@@ -114,7 +127,9 @@ StudentResults.txt
 🧑‍🎓 Author
 
 Ramya Ruba
+
 Computer Science Engineering Student
+
 VSB Engineering College
 
 
